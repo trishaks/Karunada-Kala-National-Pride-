@@ -23,3 +23,5 @@ This project was converted into an Android APK using Capacitor and Android Studi
 ```bash
 npm install
 npm run dev
+
+## https://karunada-kala.netlify.app/
