@@ -1,20 +1,114 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+````md
+# Karunada Kala – National Pride 🎭
 
-# Run and deploy your AI Studio app
+Karunada Kala is a cultural web application designed to showcase and preserve the rich traditional arts, artisans, workshops, and events of Karnataka. The platform helps users explore local art forms, connect with artisans, and discover cultural experiences through an interactive and modern interface.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/72f5de3e-2d68-4699-b21d-7deadb31641e
+## 🌟 Features
 
-## Run Locally
+- 🎨 Explore Karnataka traditional art forms
+- 👨‍🎨 Artisan profile showcase
+- 📍 Interactive map integration
+- 🛠️ Workshops and cultural events listing
+- 🔔 Notification support
+- 🔐 Login interface
+- 📱 Responsive modern UI
+- ⚡ Built using React + TypeScript + Vite
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- TypeScript
+- Vite
+- CSS
+- Context API
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ┣ components/
+ ┣ context/
+ ┣ App.tsx
+ ┣ main.tsx
+ ┗ index.css
+```
+
+---
+
+## 🚀 Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/trishaks/Karunada-Kala-National-Pride-.git
+```
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
+cd Karunada-Kala-National-Pride-
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screens Included
+
+- Home Screen
+- Explore Screen
+- Event Screen
+- Workshop Screen
+- Artisan Profile Screen
+- Map Screen
+- Login Screen
+
+---
+
+## 🔒 Environment Variables
+
+Create a `.env.local` file and add your API keys:
+
+```env
+VITE_API_KEY=your_api_key_here
+```
+
+⚠️ Do not upload `.env.local` publicly.
+
+---
+
+## 🎯 Project Goal
+
+The goal of Karunada Kala is to digitally promote Karnataka’s cultural heritage and provide a platform for artisans and art enthusiasts to connect and engage.
+
+---
+
+## 👨‍💻 Author
+
+**Harshith / Team Karunada Kala**
+
+GitHub Repository:  
+https://github.com/trishaks/Karunada-Kala-National-Pride-
+
+---
+
+## 📄 License
+
+This project is created for educational and cultural purposes.
+````
