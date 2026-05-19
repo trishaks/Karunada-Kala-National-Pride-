@@ -1,0 +1,20 @@
+{
+  "name": "Karunada Kala: Heritage of Karnataka",
+  "short_name": "KarunadaKala",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Karnataka.svg/192px-Emblem_of_Karnataka.svg.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Karnataka.svg/512px-Emblem_of_Karnataka.svg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

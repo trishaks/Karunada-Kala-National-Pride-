@@ -1,0 +1,6 @@
+{
+  "name": "Karunada Kala",
+  "description": "A cultural discovery and preservation platform for Karnataka's traditional arts like Yakshagana, Kinnala toys, and Bidriware. Explore art forms, find artisans, and join workshops.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
